@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **Dhananjay Mehrotra**
+- 👋 Hi, I’m **Djay**
 - 👀 I’m interested in ... **Front End Stack**
 - 🌱 I’m currently learning ... **Angular**
 - 💞️ I’m looking to collaborate on ... **Angular** or **JavaScript** or **ReactJS**   
